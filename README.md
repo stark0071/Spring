@@ -92,7 +92,6 @@ Apply clean architecture and design patterns.
 Deploy Spring applications in real environments.
 
 📬 Connect with Me
-LinkedIn: Your LinkedIn Profile
+LinkedIn:https://www.linkedin.com/in/prathamesh-pachade-62742a314
 
-GitHub: Your GitHub Profile
 
